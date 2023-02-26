@@ -27,3 +27,18 @@
         font-style: normal; 
         font-weight: normal;
 }
+
+.code_php{
+    font-family: Montserrat Alternates;
+    font-size: 20px;
+    border: 2px solid blue;
+    background-color: aqua;
+    text-align: center;
+}
+.db_year_name{
+    font-family: Montserrat Alternates;
+    font-size: 20px;
+    border: 2px solid rgb(255, 0, 43);
+    background-color: rgb(9, 231, 120);
+    text-align: center;
+}
